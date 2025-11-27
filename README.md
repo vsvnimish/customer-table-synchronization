@@ -112,15 +112,15 @@ Delay differences become negligible
 
 🧠 Key Concepts Demonstrated
 
-Mutual exclusion with mutex
+Mutual exclusion with mutex 
 
-Semaphore-based waiting and signaling
+Semaphore-based waiting and signaling 
 
-Fair and controlled access to shared limited resources
+Fair and controlled access to shared limited resources 
 
-Thread scheduling and timing effects
+Thread scheduling and timing effects 
 
-Real-world concurrency simulation
+Real-world concurrency simulation 
 
 📁 File Description
 File	Description
